@@ -1,16 +1,38 @@
-### Hi there 👋
+# Stephanie Rojas Diaz
+### Ingeniera Industrial
 
-<!--
-**Steph230788/Steph230788** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✉️ whenn18@gmail.com
+📞 +57 3118168696
 
-Here are some ideas to get you started:
+## Perfil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Experiencia en administración comercial, operaciones, canales físicos, riesgo de crédito y talento humano principalmente en sector financiero, calidad y servicios.
+## 🎓 Formación 
+___
+
+* **Universidad Cooperativa de Colombia**
+    Ingenieria Industrial 
+* **Instituto Colombiano de aprendizaje INCAP**
+  Tecnica Asistente
+
+* **I.E.D M Y M**
+ Bachiller Académico
+
+## 💪Skills
+___
+
+1. Gestión del tiempo 
+2. Capacidad de aprendizaje 
+3. Creatividad e innovación 
+4. Comunicación Trabajo en equipo
+
+## 💼Experiencia 
+____________________
+* **Analista de proyectos**
+Scotiabank Colpatria
+
+* **Analista II Aseguramiento Calidad en Servicio**
+Scotiabank Colpatria
+* **Analista de Dirección Comercial**
+Banco de las Microfinanzas Bancamía
+
